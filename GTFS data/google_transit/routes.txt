@@ -1,0 +1,27 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+58,SCT,58,Brentwood Long Island Railroad Station to Riverhead via New York State Route 25,,3,,0454A2,ffffff
+52B,SCT,52B,Central Islip Long Island Railroad Station to Gordon Heights via Brookhaven Town Hall,,3,,0454A2,ffffff
+17,SCT,17,East Islip to Hauppauge,,3,,C63F49,ffffff
+10,SCT,10,Amityville Long Island Railroad Station to Babylon Long Island Railroad Station,,3,,0454A2,ffffff
+7,SCT,7,Bay Shore to Northport Veterans Affairs Medical Center,,3,,C63F49,ffffff
+52A,SCT,52A,Central Islip Long Island Railroad Station to Gordon Heights via Coram Plaza,,3,,0454A2,ffffff
+4,SCT,4,Amityville Long Island Railroad Station to Central Islip Long Island Railroad Station to Smith Haven Mall,,3,,C63F49,ffffff
+62,SCT,62,Smith Haven Mall to Riverhead Long Island Railroad Station,,3,,0454A2,ffffff
+77Y,SCT,77Y,Patchogue Long Island Railroad Station to Yaphank Correctional Facility,,3,,0454A2,ffffff
+11,SCT,11,Bay Shore to Hauppauge,,3,,C63F49,ffffff
+15,SCT,15,Babylon Long ISland Railroad Station to Robert Moses State Park,,3,,0454A2,ffffff
+3,SCT,3,Babylon Long Island Railroad Station to Walt Whitman Shops,,3,,0454A2,ffffff
+66,SCT,66,Patchogue Long Island Railroad Station to Shirley to Mastic to Riverhead,,3,,C63F49,ffffff
+55,SCT,55,Patchogue Long Island Railroad Station to Port Jefferson,,3,,0454A2,ffffff
+12,SCT,12,East Farmingdale to Wyandanch to Bay Shore,,3,,C63F49,ffffff
+51,SCT,51,Patchogue Long Island Railroad Station to Ronkonkoma Long Island Railroad Station to Stony Brook to Port Jefferson,,3,,C63F49,ffffff
+6,SCT,6,Walt Whitman Shops to Patchogue Long Island Railroad Station,,3,,C63F49,ffffff
+77,SCT,77,Patchogue Long Island Railroad Station to Bellport,,3,,0454A2,ffffff
+80,SCT,80,Riverhead Long Island Railroad Station to Riverhead Tanger Outlets Loop,,3,,0454A2,ffffff
+1,SCT,1,Amityville Long Island Railroad Station to Halesite,,3,,C63F49,ffffff
+56,SCT,56,Kings Park Manor to Smithtown Railroad Station,,3,,0454A2,ffffff
+5,SCT,5,Babylon Long Island Railroad Station to Smith Haven Mall,,3,,C63F49,ffffff
+92,SCT,92,Orient Point to Riverhead to East Hampton Long Island Railroad Station,,3,,0454A2,ffffff
+53,SCT,53,Patchogue Long Island Railroad Station to Port Jefferson,,3,,0454A2,ffffff
+110,SCT,110,Suffolk Clipper,,3,,6D6E71,ffffff
+2,SCT,2,Amityville Long Island Railroad Station to Patchogue Long Island Railroad Station (via Montauk Highway),,3,,C63F49,ffffff

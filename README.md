@@ -1,6 +1,9 @@
 # Suffolk_County_Transit_Data_Analysis_using_GIS_and_GEO_Pandas
 SCT's Case Study on various fronts  - transit revenue performance over the years,Route Analysis, Deeper analysis of Poverty areas tied with transit coverage. 
-![QGIS Visualisation of Suffolk County along with SCT Blueprint](URL_of_your_image)
+
+
+![Qis Visualisation of suffolk County Map with SCT and Dmeographic Overlay](Images/map.png)
+
 This project undertakes an in-depth case study of Suffolk County Transit (SCT), driven by my personal experience as a daily commuter impressed by its punctuality and extensive coverage. Given Suffolk County's status as the largest easternmost county in the USA, the project aims to assess SCT's effectiveness in fulfilling its purpose. The comprehensive analysis is divided into three parts: an examination of bus ridership trends from 2013–2016, a review of SCT's performance measures and operational characteristics from 2013–2023, and a detailed bus route analysis including GIS visualization and an assessment of its social demographic impact, particularly concerning poverty areas.
 
 The initial phase, "Bus Ridership Demographics," explores ridership trends and patterns between 2013 and 2016, utilizing data from opendata.suffolk. This involved loading ridership data, creating a 'Date' column for time-series analysis, and calculating 'Total_Ridership' by summing various fare types. Visualizations were generated to show total monthly ridership fluctuations and the overall distribution of ridership by fare type. The second part, "SCT’s Performance Measures and Operational Characteristics," uses data from the Federal Transit Administration (FTA) to evaluate efficiency, productivity, and fleet health from 2013 to 2023. This involved cleaning numerical data, calculating key performance indicators like 'Operating Expense per Vehicle Revenue Mile', and visualizing these trends along with year-over-year changes in operational metrics and fleet characteristics.

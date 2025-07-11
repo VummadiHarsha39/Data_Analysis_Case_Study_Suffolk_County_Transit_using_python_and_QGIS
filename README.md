@@ -1,4 +1,4 @@
-# Suffolk_County_Transit_Data_Analysis_using_GIS_and_GEO_Pandas
+# Suffolk_County_Transit_Data_Analysis_using_GIS_and_Python
 SCT's Case Study on various fronts  - transit revenue performance over the years,Route Analysis, Deeper analysis of Poverty areas tied with transit coverage. 
 
 

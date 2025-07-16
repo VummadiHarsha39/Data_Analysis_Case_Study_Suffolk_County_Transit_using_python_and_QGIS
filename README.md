@@ -54,7 +54,7 @@ However, a deeper dive into the highest poverty quartile identified specific rou
 
 ## 🔗 Full Project Details
 
-For a deeper dive into the methodology, detailed code, and complete analysis, please visit my Medium article:
+For a deeper dive into the methodology and complete analysis, please visit my Medium article:
 
 [Summer Project 1: Analyzing Suffolk County Transit with QGIS & Python](https://medium.com/@vummadiharsha123/summer-project-1-analyzing-suffolk-county-transit-with-qgis-python-9482692bbb80)
 

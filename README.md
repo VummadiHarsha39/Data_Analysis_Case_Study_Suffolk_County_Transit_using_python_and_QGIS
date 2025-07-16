@@ -1,6 +1,7 @@
 # Suffolk_County_Transit_Data_Analysis_using_GIS_and_Python
 
 **SCT's Case Study: Unpacking Transit Revenue Performance, Operational Trends, Route Analysis, and the Socioeconomic Impact of Service Coverage in High-Poverty Areas.**
+
 ![SCT_Logo](Images/sctlogo.png)
 ---
 

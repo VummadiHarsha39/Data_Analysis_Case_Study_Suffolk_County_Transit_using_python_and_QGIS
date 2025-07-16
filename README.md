@@ -1,12 +1,57 @@
 # Suffolk_County_Transit_Data_Analysis_using_GIS_and_Python
-SCT's Case Study on various fronts  - transit revenue performance over the years,Route Analysis, Deeper analysis of Poverty areas tied with transit coverage. 
 
+**A Comprehensive Case Study: Transit Performance, Route Analysis, and Socioeconomic Impact in Suffolk County, NY.**
 
-![Qis Visualisation of suffolk County Map with SCT and Dmeographic Overlay](Images/map.png)
+![SCT Logo](Images/sctlogo.png)
+---
 
-This project undertakes an in-depth case study of Suffolk County Transit (SCT), driven by my personal experience as a daily commuter impressed by its punctuality and extensive coverage. Given Suffolk County's status as the largest easternmost county in the USA, the project aims to assess SCT's effectiveness in fulfilling its purpose. The comprehensive analysis is divided into three parts: an examination of bus ridership trends from 2013–2016, a review of SCT's performance measures and operational characteristics from 2013–2023, and a detailed bus route analysis including GIS visualization and an assessment of its social demographic impact, particularly concerning poverty areas.
+## 📄 Overview
 
-The initial phase, "Bus Ridership Demographics," explores ridership trends and patterns between 2013 and 2016, utilizing data from opendata.suffolk. This involved loading ridership data, creating a 'Date' column for time-series analysis, and calculating 'Total_Ridership' by summing various fare types. Visualizations were generated to show total monthly ridership fluctuations and the overall distribution of ridership by fare type. The second part, "SCT’s Performance Measures and Operational Characteristics," uses data from the Federal Transit Administration (FTA) to evaluate efficiency, productivity, and fleet health from 2013 to 2023. This involved cleaning numerical data, calculating key performance indicators like 'Operating Expense per Vehicle Revenue Mile', and visualizing these trends along with year-over-year changes in operational metrics and fleet characteristics.
+This project presents an in-depth data analysis case study of Suffolk County Transit (SCT). Driven by personal observations of SCT's punctuality and extensive coverage as a daily commuter, this work assesses the agency's effectiveness in serving Suffolk County, recognized as the largest easternmost county in the USA.
 
-The final and most central part of the project, "SCT Bus Route Analysis, GIS Visualization, and Social Demographic Impact," focuses on linking bus routes to demographic data. This involved integrating bus stops and route shapes from GTFS data with town and hamlet polygons, and census tracts. A crucial step included joining population and poverty attributes from ACS data to census tracts using Python, allowing for choropleth and dot density maps to visualize poverty distribution. Buffer zones around routes were created to illustrate service areas, and demographic overlays were performed to understand the relationship between bus infrastructure and socioeconomic characteristics, notably poverty. Ultimately, the analysis confirmed SCT's effective service coverage in Suffolk County, which is both insightful and reassuring.
-If you want to understand deeply into this project.Please Follow the following link,  "https://medium.com/@vummadiharsha123/summer-project-1-analyzing-suffolk-county-transit-with-qgis-python-9482692bbb80" 
+The comprehensive analysis is structured into three distinct phases:
+
+### 1. Bus Ridership Demographics (2013-2016)
+
+This initial phase explores bus ridership trends and patterns between 2013 and 2016. Using data from opendata.suffolk, the analysis involved:
+* Loading raw ridership data.
+* Creating a 'Date' column for time-series analysis.
+* Calculating 'Total_Ridership' by summing various fare types.
+* Generating visualizations to illustrate total monthly ridership fluctuations and the overall distribution of ridership by fare type.
+
+### 2. SCT Performance Measures and Operational Characteristics (2013-2023)
+
+The second part focuses on evaluating SCT's efficiency, productivity, and fleet health over a longer period, from 2013 to 2023. Data was sourced from the Federal Transit Administration (FTA) Annual Agency Profiles. Key analytical steps included:
+* Cleaning and preparing numerical operational data.
+* Calculating essential performance indicators such as 'Operating Expense per Vehicle Revenue Mile'.
+* Visualizing trends in these KPIs along with year-over-year changes in operational metrics and fleet characteristics.
+
+### 3. SCT Bus Route Analysis, GIS Visualization, and Social Demographic Impact
+
+This final and most central part of the project links SCT bus routes to crucial demographic data, particularly focusing on poverty. This phase involved:
+* Integrating bus stops and route shapes from GTFS data.
+* Incorporating town and hamlet polygons for local administrative context.
+* Adding census tracts as foundational spatial units.
+* Utilizing Python to join population and poverty attributes from American Community Survey (ACS) data with census tracts.
+* Creating choropleth maps to visualize the distribution of poverty rates.
+* Developing dot density maps to illustrate population and poverty concentrations, with poverty distinctly highlighted in red.
+* Generating buffer zones around bus routes to visually represent service corridors.
+* Performing demographic overlays to understand the spatial relationship between bus infrastructure and socioeconomic characteristics.
+
+## 📊 Key Visualizations
+
+Here's an example of the GIS visualization integrating SCT routes with demographic overlays:
+
+![QGIS Visualization of Suffolk County Map with SCT and Demographic Overlay](Images/map.png)
+
+## 💡 Key Findings
+
+Ultimately, our analysis confirmed that Suffolk County Transit effectively provides service coverage within Suffolk, the region's largest easternmost county—a finding both curiously insightful and thankfully reassuring.
+
+## 🔗 Full Project Details
+
+For a deeper dive into the methodology, detailed code, and complete analysis, please visit my Medium article:
+
+[Summer Project 1: Analyzing Suffolk County Transit with QGIS & Python](https://medium.com/@vummadiharsha123/summer-project-1-analyzing-suffolk-county-transit-with-qgis-python-9482692bbb80)
+
+---

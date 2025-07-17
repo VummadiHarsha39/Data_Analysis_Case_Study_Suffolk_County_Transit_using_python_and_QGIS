@@ -40,11 +40,11 @@ This final and most central part of the project links SCT bus routes to crucial 
 * Generating buffer zones around bus routes to visually represent service corridors.
 * Performing demographic overlays to understand the relationship between bus infrastructure and socioeconomic characteristics, notably poverty.
 
-## Complete Visualization of SCT
+## Complete QGIS Visualization of SCT
 
 Here's an example of the GIS visualization integrating SCT routes with demographic overlays:
 
-![QGIS Visualization of Suffolk County Map with SCT and Demographic Overlay](Images/map.png)
+![](Images/map.png)
 
 ## 💡 Key Findings
 

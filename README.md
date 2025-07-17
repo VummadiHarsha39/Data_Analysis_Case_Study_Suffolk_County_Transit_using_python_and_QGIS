@@ -42,7 +42,7 @@ This final and most central part of the project links SCT bus routes to crucial 
 
 ## Complete QGIS Visualization of SCT
 
-Here's an example of the GIS visualization integrating SCT routes with demographic overlays:
+
 
 ![](Images/map.png)
 
